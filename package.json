@@ -1,0 +1,81 @@
+{
+  "name": "altered-matter",
+  "publisher": "TechWithCarlos",
+  "displayName": "Altered Matter",
+  "description": "One Dark Theme with 5 variants, optimized for JavaScript, Rust, Go, TypeScript, React, Node.js and Python with the same and best possible color support!",
+  "version": "1.1.0",
+  "Author": {
+    "name": "Carlos"
+    },
+  "engines": {
+      "vscode": "^1.66.0"
+  },
+  "galleryBanner":{
+    "color": "#212836",
+    "theme": "dark"
+  },
+  "icon": "images/icon/logo-512x512.png",
+  "categories": [
+      "Themes"
+  ],
+  "keywords":[
+    "Tech With Carlos Theme",
+    "Altered Matter",
+    "Theme",
+    "Dark Theme",
+    "Blue",
+    "Dark",
+    "Gray",
+    "Pink",
+    "Coral",
+    "Flat",
+    "clean",
+    "Rust",
+    "Blue",
+    "Dark Blue",
+    "Cyberpunk",
+    "Space",
+    "React",
+    "JavaScript",
+    "TypeScript",
+    "Node.js",
+    "Python",
+    "Go",
+    "CSS",
+    "HTML",
+    "Color Theme"
+],
+"repository": {
+  "type": "git",
+  "url": "https://github.com/TechWithCarlos/altered-matter.git"
+},
+  "contributes": {
+      "themes": [
+          {
+              "label": "Altered Matter",
+              "uiTheme": "vs-dark",
+              "path": "./themes/Altered Matter-color-theme.json"
+          },
+          {
+              "label": "Altered Matter Green",
+              "uiTheme": "vs-dark",
+              "path": "./themes/Altered Matter-color-theme-green.json"
+          },
+          {
+              "label": "Altered Matter Pink",
+              "uiTheme": "vs-dark",
+              "path": "./themes/Altered Matter-color-theme-pink.json"
+          },
+          {
+              "label": "Altered Matter Coral",
+              "uiTheme": "vs-dark",
+              "path": "./themes/Altered Matter-color-theme-coral.json"
+          },
+          {
+              "label": "Altered Matter Flat",
+              "uiTheme": "vs-dark",
+              "path": "./themes/Altered Matter-color-theme-flat.json"
+          }
+      ]
+  }
+}
