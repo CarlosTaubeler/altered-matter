@@ -96,7 +96,7 @@ ___
 
 ```javascript
 {
-  "workbench.colorTheme": "Dark Matter",
+  "workbench.colorTheme": "Altered Matter",
   "editor.fontFamily": "Fira Code, Menlo, Monaco",
   "editor.fontSize": 16,
   "editor.lineHeight": 25,
