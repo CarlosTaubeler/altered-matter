@@ -5,10 +5,15 @@
 <h4 align=center> Choose your Template Color:</h4>
 <h6 align=center>Without change the core Theme + Flat Option</h6>
 <p align=center>
-🔵 Blue | 🟢 Green | 🔴 Coral | 🟣 Pink
+🔵 Blue | 🟢 Green | 🔴 Coral | 🟣 Pink | 🦉 Dopamin Owl
 </p>
+</br>
+<h2 align=center>🔥Update🔥</h2>
 
-___
+* New theme update! A bonus theme for the dopamine addicts among us, with improved syntax highlighting, better contrast, and a dark environment. Inspired by Sarah Drasner's Night Owl Theme.
+  * Neues Theme-Update! Ein Bonus-Theme für die Dopaminabhängigen unter uns, mit besserem Syntax-Highlighting, besserem Kontrast und dunkler Umgebung. Inspiriert von Sarah Drasners Night Owl Theme.
+
+</br>
 <h2 align=center>🖥 Installation:</h2>
 
 *  Open Extensions sidebar panel in VS Code. View → Extensions.

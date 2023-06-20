@@ -3,7 +3,7 @@
   "publisher": "TechWithCarlos",
   "displayName": "Altered Matter",
   "description": "One Dark Theme with 5 variants, optimized for JavaScript, Rust, Go, TypeScript, React, Node.js and Python with the same and best possible color support!",
-  "version": "1.1.0",
+  "version": "1.4.5",
   "Author": {
     "name": "Carlos"
     },
@@ -43,7 +43,13 @@
     "Go",
     "CSS",
     "HTML",
-    "Color Theme"
+    "Color Theme",
+    "Night Owl",
+    "Dark Owl",
+    "Dopamin Owl",
+    "Altered Matter Dopamin Owl",
+    "Altered Matter Owl",
+    "Altered Matter Dopamin"
 ],
 "repository": {
   "type": "git",
@@ -75,6 +81,11 @@
               "label": "Altered Matter Flat",
               "uiTheme": "vs-dark",
               "path": "./themes/Altered Matter-color-theme-flat.json"
+          },
+          {
+              "label": "Altered Matter Dopamin Owl",
+              "uiTheme": "vs-dark",
+              "path": "./themes/Altered Matter-color-theme-dopaminOwl.json"
           }
       ]
   }
